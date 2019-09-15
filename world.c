@@ -1,5 +1,5 @@
 /*
-*Isaiah Keating
+*Isaiah Keatin
 *csc150 DT2
 *lab1
 */
