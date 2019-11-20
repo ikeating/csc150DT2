@@ -1,8 +1,6 @@
-/*
-Isaiah Keating
-csc150 DT 2
-lab2
-*/
+/*Isaiah Keating
+  csc150 DT 2
+  lab2*/
 
 #include <stdio.h>
 
