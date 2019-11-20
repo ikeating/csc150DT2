@@ -1,8 +1,6 @@
-/*
-*Isaiah Keating
-*csc150 DT2
-*lab1
-*/
+/*Isaiah Keating
+  csc150 DT2
+  lab1*/
 
 //the stdio.h imports a header file required for the functions
 //we want to call in our program
