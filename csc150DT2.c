@@ -15,7 +15,7 @@ int main()
    printf("Hello, World!");
 
    //the return 0; ends the program, also indicates successful
-   //execution of the main() function
+   //execution of the main() function which is good
    return 0;
 }
 
@@ -27,11 +27,9 @@ csc150 DT2
 08/30/2019
 lab1bonus
 
-
 I found the following code example at
 https://codeforwin.org/2018/01/c-program-create-file-write-contents.html
 */
-
 
 #include <stdio.h>//header file 
 #include <stdlib.h>//header file
